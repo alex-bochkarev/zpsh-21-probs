@@ -8,4 +8,4 @@
 - вероятностное пространство. Исходы, события. Элементы теории множеств
 - пример с текстом
 
-Ноутбук можно открыть: [[https://nbviewer.jupyter.org/github/alex-bochkarev/zpsh-21-probs/blob/main/1_probability.ipynb][[nbviewer]​]] [[https://colab.research.google.com/github/alex-bochkarev/zpsh-21-probs/blob/main/1_probability.ipynb][[Google Colab]​]].
+Ноутбук можно открыть: [[https://nbviewer.jupyter.org/github/alex-bochkarev/zpsh-21-probs/blob/main/1_probability.ipynb][(nbviewer)]] [[https://colab.research.google.com/github/alex-bochkarev/zpsh-21-probs/blob/main/1_probability.ipynb][(Google Colab)]].
