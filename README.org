@@ -26,7 +26,7 @@
 
 *О чем можно подумать:* разве что пересмотреть материалы.
 
-📔 Ноутбук: [[https://nbviewer.jupyter.org/github/alex-bochkarev/zpsh-21-probs/blob/main/2_independence.ipynb][(nbviewer)]] [[https://colab.research.google.com/github/alex-bochkarev/zpsh-21-probs/blob/main/2_indep_and_tests.ipynb][(Google Colab)]].
+📔 Ноутбук: [[https://nbviewer.jupyter.org/github/alex-bochkarev/zpsh-21-probs/blob/main/2_independence.ipynb][(nbviewer)]] [[https://colab.research.google.com/github/alex-bochkarev/zpsh-21-probs/blob/main/2_independence.ipynb][(Google Colab)]].
 
 * Доп. ресурсы
 🌍 *Online:*
