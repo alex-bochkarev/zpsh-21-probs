@@ -8,7 +8,7 @@
 - вероятностное пространство. Исходы, события. Элементы теории множеств
 - пример с текстом
 
-Ноутбук можно открыть: [[https://nbviewer.jupyter.org/github/alex-bochkarev/zpsh-21-probs/blob/main/1_probability.ipynb][(nbviewer)]] [[https://colab.research.google.com/github/alex-bochkarev/zpsh-21-probs/blob/main/1_probability.ipynb][(Google Colab)]].
+📔 Ноутбук: [[https://nbviewer.jupyter.org/github/alex-bochkarev/zpsh-21-probs/blob/main/1_probability.ipynb][(nbviewer)]] [[https://colab.research.google.com/github/alex-bochkarev/zpsh-21-probs/blob/main/1_probability.ipynb][(Google Colab)]].
 
 *О чем можно подумать:*
 - Учитывая свойства вероятности, ℙ, как бы могла выглядеть формула
@@ -18,6 +18,16 @@
   пять кроликов подряд?
 
   
+* C2) Независимость, тесты и Ко.
+- крокодилы и кролики, revised
+- зависимые и независимые события
+- условная вероятность
+- тест на COVID как случайная величина, характеристики тестов.
+
+*О чем можно подумать:* разве что пересмотреть материалы.
+
+📔 Ноутбук: [[https://nbviewer.jupyter.org/github/alex-bochkarev/zpsh-21-probs/blob/main/2_independence.ipynb][(nbviewer)]] [[https://colab.research.google.com/github/alex-bochkarev/zpsh-21-probs/blob/main/2_indep_and_tests.ipynb][(Google Colab)]].
+
 * Доп. ресурсы
 🌍 *Online:*
   - хороший вводный курс на русском: [[https://ru.coursera.org/learn/mathematics-and-python][Математика и Python для анализа данных]] от МФТИ, Яндекс и Ко.
