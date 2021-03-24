@@ -29,6 +29,16 @@
 
 📔 Ноутбук: [[https://nbviewer.jupyter.org/github/alex-bochkarev/zpsh-21-probs/blob/main/2_independence.ipynb][(nbviewer)]] [[https://colab.research.google.com/github/alex-bochkarev/zpsh-21-probs/blob/main/2_independence.ipynb][(Google Colab)]].
 
+* C3) Случайные величины-1: определение и схема Бернулли
+  - определение случайной величины
+  - примеры ( + про счетные множества)
+  - схема Бернулли ("смещенная" монетка) и Биномиальное
+    распределение (считаем количество "орлов" при бросании монетки
+    /n/ раз).
+  - анонс: мат. ожидание и дисперсия.
+
+📔 Ноутбук: [[https://nbviewer.jupyter.org/github/alex-bochkarev/zpsh-21-probs/blob/main/3-random-vars.ipynb][(nbviewer)]] [[https://colab.research.google.com/github/alex-bochkarev/zpsh-21-probs/blob/main/3-random-vars.ipynb][(Google Colab)]].
+
 * Доп. ресурсы
 🌍 *Online:* 
   - хороший вводный курс на русском: [[https://ru.coursera.org/learn/mathematics-and-python][Математика и Python для анализа данных]] от МФТИ, Яндекс и Ко.
